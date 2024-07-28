@@ -1,0 +1,19 @@
+img {
+    width: 200px;
+    max-height: 200px;
+    object-fit: cover;
+    place-items: center;
+    margin: 24px;
+}
+
+nav {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 200px;
+    margin-left: 24px;
+    padding: 20px 0;
+}
